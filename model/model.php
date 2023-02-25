@@ -1,5 +1,5 @@
 <?php 
-    require_once '/xampp/htdocs/biometrics/Biometrics/controller/connection.php';
+    require_once '/xampp/htdocs/BiometricsFINAL/controller/connection.php';
 
     class Model {
         static public function mdlShowEmployees(){
